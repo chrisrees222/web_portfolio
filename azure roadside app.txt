@@ -1,0 +1,9 @@
+django-road-side-project-server
+
+django-road-side-project-database
+username = nnrvitotce
+password = 2IXVAWG7E8C153GX$
+
+config secret key
+value = 
+password = Ds3LUhCVgVSd~Nw
